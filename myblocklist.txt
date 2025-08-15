@@ -1,2 +1,2 @@
-0.0.0.0 vnexpress.net
-0.0.0.0 skin.club
+vnexpress.net
+skin.club
